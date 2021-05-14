@@ -73,7 +73,7 @@
 			</span> -->
 
 			<ul class="navbar-nav ml-md-auto">
-				<!-- <li class="nav-item dropdown">
+				<li class="nav-item dropdown">
 					<a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
 						<i class="icon-make-group mr-2"></i>
 						Connect
@@ -83,44 +83,17 @@
 						<div class="dropdown-content-body p-2">
 							<div class="row no-gutters">
 								<div class="col-12 col-sm-4">
-									<a href="#" class="d-block text-default text-center ripple-dark rounded p-3">
+									<a href="https://github.com/makerdark98/walker-navigator" target="_blank" class="d-block text-default text-center ripple-dark rounded p-3">
 										<i class="icon-github4 icon-2x"></i>
 										<div class="font-size-sm font-weight-semibold text-uppercase mt-2">Github</div>
 									</a>
 
-									<a href="#" class="d-block text-default text-center ripple-dark rounded p-3">
-										<i class="icon-dropbox text-blue-400 icon-2x"></i>
-										<div class="font-size-sm font-weight-semibold text-uppercase mt-2">Dropbox</div>
-									</a>
-								</div>
-
-								<div class="col-12 col-sm-4">
-									<a href="#" class="d-block text-default text-center ripple-dark rounded p-3">
-										<i class="icon-dribbble3 text-pink-400 icon-2x"></i>
-										<div class="font-size-sm font-weight-semibold text-uppercase mt-2">Dribbble</div>
-									</a>
-
-									<a href="#" class="d-block text-default text-center ripple-dark rounded p-3">
-										<i class="icon-google-drive text-success-400 icon-2x"></i>
-										<div class="font-size-sm font-weight-semibold text-uppercase mt-2">Drive</div>
-									</a>
-								</div>
-
-								<div class="col-12 col-sm-4">
-									<a href="#" class="d-block text-default text-center ripple-dark rounded p-3">
-										<i class="icon-twitter text-info-400 icon-2x"></i>
-										<div class="font-size-sm font-weight-semibold text-uppercase mt-2">Twitter</div>
-									</a>
-
-									<a href="#" class="d-block text-default text-center ripple-dark rounded p-3">
-										<i class="icon-youtube text-danger icon-2x"></i>
-										<div class="font-size-sm font-weight-semibold text-uppercase mt-2">Youtube</div>
-									</a>
+									
 								</div>
 							</div>
 						</div>
 					</div>
-				</li> -->
+				</li>
 
 				<li class="nav-item dropdown">
 					<!-- <a href="#" class="navbar-nav-link dropdown-toggle" data-toggle="dropdown">
