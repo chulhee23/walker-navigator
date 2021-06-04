@@ -4,18 +4,15 @@ SW Maestro 12기 HACKATHON 작품(5/13 ~ 5/14)
 ![image](/libs/team.PNG)
 
 
-- #### 팀 이름 : (주).진섭이네
+- #### 팀 이름 : (주)진섭이네
 - #### 팀장 : 최준성
 - #### 팀원 : 김준기,양진우,이철희,이민욱,백동진
 
 
 
 </br></br>
-# 데모 링크
-  * [아남타워-서울대도초등학교](https://sharedws-unibb.run.goorm.io/data1)
-  * [삼성타워팰리스 2차-국악고등학교](https://sharedws-unibb.run.goorm.io/data2)
-  * [삼성타워팰리스 2차-천호시장앞사거리](https://sharedws-unibb.run.goorm.io/data3)
-  * [실제 사이트(인원제한있음)](https://sharedws-unibb.run.goorm.io/)
+# 링크
+  * ~~[실제 사이트(인원제한있음)](https://sharedws-unibb.run.goorm.io/)~~
   * [안드로이드 repository](https://github.com/chulhee23/walker-navigator-adnroid)
 
 # 📝개요 
